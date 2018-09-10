@@ -1,1 +1,1 @@
-ipconfgi
+ipconfig
